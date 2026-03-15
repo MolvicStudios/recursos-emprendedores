@@ -1,0 +1,2685 @@
+{
+  "meta": {
+    "titulo": "Dataset de Recursos para Emprendedores",
+    "descripcion": "Catálogo completo de herramientas, plataformas y servicios para emprendedores españoles",
+    "version": "1.0",
+    "ultima_actualizacion": "2026-03-14"
+  },
+  "categorias": [
+    {
+      "id": "ideacion-validacion",
+      "nombre": "Ideación y Validación",
+      "emoji": "🧪",
+      "recursos": [
+        {
+          "nombre": "Lean Canvas",
+          "url": "https://www.leanstack.com/lean-canvas",
+          "descripcion": "Plantilla para validar hipótesis de negocio de forma rápida",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Herramienta fundamental de metodología Lean Startup",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "UserTesting",
+          "url": "https://www.usertesting.com/",
+          "descripcion": "Plataforma para hacer test de usabilidad con usuarios reales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Versión premium con más características y análisis",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Forms",
+          "url": "https://forms.google.com/",
+          "descripcion": "Herramienta para crear encuestas y recopilar datos de usuarios",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Integración con Google Workspace",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Typeform",
+          "url": "https://www.typeform.com/",
+          "descripcion": "Plataforma para crear formularios y encuestas interactivas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Diseño moderno y experiencia de usuario superior",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Notion",
+          "url": "https://www.notion.so/",
+          "descripcion": "Herramienta all-in-one para organizar ideas y validar conceptos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión premium con funcionalidades avanzadas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Validately",
+          "url": "https://validately.com/",
+          "descripcion": "Plataforma especializada en validación de ideas de negocio",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en investigación de mercado cualitativa",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Value Proposition Canvas",
+          "url": "https://www.strategyzer.com/canvas/value-proposition-canvas",
+          "descripcion": "Canvas para refinar propuesta de valor y product-market fit",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "De los creadores del Business Model Canvas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Maze",
+          "url": "https://maze.co/",
+          "descripcion": "Herramienta para testing de prototipos y validación rápida",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con herramientas de diseño populares",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Survey Monkey",
+          "url": "https://www.surveymonkey.com/",
+          "descripcion": "Plataforma de encuestas online con análisis estadístico",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Suite completa para investigación de mercado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Hotjar",
+          "url": "https://www.hotjar.com/",
+          "descripcion": "Herramienta para medir comportamiento y feedback de usuarios",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Incluye mapas de calor, grabaciones y encuestas",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "plan-negocio",
+      "nombre": "Plan de Negocio",
+      "emoji": "📋",
+      "recursos": [
+        {
+          "nombre": "Emprendepedia",
+          "url": "https://www.emprendepedia.net/",
+          "descripcion": "Portal con guías y plantillas para hacer planes de negocio",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Especializado en España",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "SCORE Business Plan Template",
+          "url": "https://www.score.org/resource/business-plan-template",
+          "descripcion": "Plantilla profesional de plan de negocio con ejemplos",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "De la organización SCORE (EE.UU.)",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Liveplan",
+          "url": "https://www.liveplan.com/",
+          "descripcion": "Software especializado en creación de planes de negocio profesionales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Incluye análisis financieros y proyecciones automáticas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Bizplanbuilder",
+          "url": "https://www.bizplanbuilder.com/",
+          "descripcion": "Herramienta online para desarrollo de planes de negocio estructurados",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Guías paso a paso y ejemplos incluidos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Palo Alto Software",
+          "url": "https://www.paloalto.com/",
+          "descripcion": "Suite de soporte para emprendedores con herramientas de planificación",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Incluye análisis de viabilidad y proyecciones financieras",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Cámara de Comercio de Madrid",
+          "url": "https://www.camaramadrid.es/",
+          "descripcion": "Recursos y asesoramiento para planes de negocio en España",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso a plantillas y asesoramiento especializado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Enisa",
+          "url": "https://www.enisa.es/",
+          "descripcion": "Sociedad estatal que ayuda con financiación y asesoramiento empresarial",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "También ofrece acceso a recursos para planes de negocio",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Microsoft Startup Hub",
+          "url": "https://startup.microsoft.com/",
+          "descripcion": "Recursos y plantillas para emprendedores que usan Microsoft",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso a herramientas Office 365 y Azure",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Canva for Teams",
+          "url": "https://www.canva.com/",
+          "descripcion": "Herramienta para diseñar presentaciones y documentos de negocio",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas profesionales prediseñadas incluidas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Workspace",
+          "url": "https://workspace.google.com/",
+          "descripcion": "Suite colaborativa para documentos y procesos de negocio",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Incluye Sheets para proyecciones financieras",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "financiacion-subvenciones",
+      "nombre": "Financiación y Subvenciones",
+      "emoji": "💰",
+      "recursos": [
+        {
+          "nombre": "Enisa Acelera",
+          "url": "https://www.enisa.es/el-producto/enisa-acelera",
+          "descripcion": "Programa de microfinanzas y apoyo a startups en España",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Préstamos de hasta 25.000€ sin avales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Kickstarter",
+          "url": "https://www.kickstarter.com/",
+          "descripcion": "Plataforma de crowdfunding para proyectos innovadores",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Comisión del 5% sobre fondos recaudados",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Indiegogo",
+          "url": "https://www.indiegogo.com/",
+          "descripcion": "Plataforma de crowdfunding flexible para negocios y productos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Flexible: puedes quedarte con fondos parciales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Capital Riesgo Online",
+          "url": "https://capitalriesgoonline.com/",
+          "descripcion": "Plataforma española de crowdlending para pymes y startups",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Mapeo de inversores y oportunidades de financiación",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Subvenciones.es",
+          "url": "https://www.subvenciones.es/",
+          "descripcion": "Buscador oficial de subvenciones y ayudas públicas españolas",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Base de datos del gobierno español",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Angel List",
+          "url": "https://www.angellist.com/",
+          "descripcion": "Red de inversores ángeles y venture capital global",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Conecta startups con inversores de riesgo",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Stripe Climate Fund",
+          "url": "https://climate.stripe.com/",
+          "descripcion": "Fondo de inversión para startups de tecnología ambiental",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Enfoque en sostenibilidad e impacto ambiental",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "BBVA Momentum",
+          "url": "https://www.bbvamometum.com/",
+          "descripcion": "Programa de aceleración e inversión en startups españolas",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso a mentoría y red de inversores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Crunchbase",
+          "url": "https://www.crunchbase.com/",
+          "descripcion": "Base de datos de inversión con información de fondos y rondas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Información sobre inversores y rondas de financiación",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google for Startups",
+          "url": "https://startup.google.com/",
+          "descripcion": "Programa de Google con créditos, herramientas y mentoría",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso a créditos de Google Cloud por valor de 100k",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "marketing-digital",
+      "nombre": "Marketing Digital",
+      "emoji": "📣",
+      "recursos": [
+        {
+          "nombre": "HubSpot Academy",
+          "url": "https://academy.hubspot.com/",
+          "descripcion": "Cursos gratis de marketing digital, ventas y servicio al cliente",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Certificaciones reconocidas en la industria",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Mailchimp",
+          "url": "https://mailchimp.com/",
+          "descripcion": "Plataforma de email marketing y automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión gratuita para hasta 500 contactos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Buffer",
+          "url": "https://buffer.com/",
+          "descripcion": "Herramienta para programar y gestionar publicaciones en redes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Plan premium con análisis avanzados",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Hootsuite",
+          "url": "https://www.hootsuite.com/",
+          "descripcion": "Gestión de marketing y programación de contenidos en redes",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratis con límites de perfiles sociales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Analytics",
+          "url": "https://analytics.google.com/",
+          "descripcion": "Herramienta para analizar tráfico y comportamiento de visitantes",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Integración directa con sitios web",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Sendinblue",
+          "url": "https://www.brevo.com/",
+          "descripcion": "Suite de email marketing y CRM integrados",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "SMS marketing incluido en versión premium",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "HubSpot Marketing Hub",
+          "url": "https://www.hubspot.com/products/marketing",
+          "descripcion": "Automatización y captación de leads con plan gratuito inicial",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratis con límites de contactos y funciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "CoSchedule",
+          "url": "https://coschedule.com/",
+          "descripcion": "Calendario y planificación de contenidos para marketing digital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito limitado para organización básica",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Ads",
+          "url": "https://ads.google.com/",
+          "descripcion": "Plataforma para crear anuncios en Google y redes asociadas",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Cuenta con créditos de prueba en Google for Startups",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Moz",
+          "url": "https://moz.com/",
+          "descripcion": "Suite de herramientas para SEO, marketing y análisis digital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Recursos educativos y herramientas de investigación",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "seo-posicionamiento",
+      "nombre": "SEO y Posicionamiento",
+      "emoji": "🔍",
+      "recursos": [
+        {
+          "nombre": "Google Search Console",
+          "url": "https://search.google.com/search-console",
+          "descripcion": "Herramienta de Google para monitorear presencia en búsqueda",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Fundamental para SEO en Google",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Ahrefs",
+          "url": "https://ahrefs.com/",
+          "descripcion": "Suite profesional de herramientas de SEO y análisis competitivo",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Acceso limitado en versión freemium",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Semrush",
+          "url": "https://www.semrush.com/",
+          "descripcion": "Plataforma integral de marketing digital y análisis SEO",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión premium con análisis competitivos profundos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Ubersuggest",
+          "url": "https://ubersuggest.com/",
+          "descripcion": "Herramienta para investigación de palabras clave y análisis SEO",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Interfaz intuitiva para principiantes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Bing Webmaster Tools",
+          "url": "https://www.bing.com/webmasters",
+          "descripcion": "Herramienta de Bing para optimizar presencia en búsqueda",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Complementa Google Search Console",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Yoast SEO",
+          "url": "https://yoast.com/",
+          "descripcion": "Plugin y herramientas para optimización SEO de contenido",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Análisis en tiempo real para WordPress",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "SEMrush Keyword Research Tool",
+          "url": "https://www.semrush.com/research/",
+          "descripcion": "Investigación avanzada de palabras clave y tendencias",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con plataforma Semrush",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Screaming Frog",
+          "url": "https://www.screamingfrog.co.uk/",
+          "descripcion": "Software de análisis técnico de sitios web para SEO",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Versión limitada gratuita disponible",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "descripcion": "Herramienta para medir velocidad y rendimiento web",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Factor importante para posicionamiento SEO",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "MOZ Local",
+          "url": "https://moz.com/products/local",
+          "descripcion": "Herramienta para optimizar presencia local en Google",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Gestiona ficha de negocio local",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "redes-sociales",
+      "nombre": "Gestión de Redes Sociales",
+      "emoji": "📲",
+      "recursos": [
+        {
+          "nombre": "Meta Business Suite",
+          "url": "https://business.facebook.com/",
+          "descripcion": "Centro de control para Instagram y Facebook de Meta",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Gestión integrada de ambas plataformas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "TweetDeck",
+          "url": "https://tweetdeck.twitter.com/",
+          "descripcion": "Herramienta de Twitter para gestionar múltiples cuentas",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Ahora integrada en la plataforma X",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Later",
+          "url": "https://www.later.com/",
+          "descripcion": "Planificador de contenido para Instagram, Pinterest y TikTok",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Suite premium con análisis de rendimiento",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Sprout Social",
+          "url": "https://www.sproutsocial.com/",
+          "descripcion": "Plataforma empresarial de gestión de redes sociales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Análisis avanzados y reportes personalizados",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Loom",
+          "url": "https://www.loom.com/",
+          "descripcion": "Herramienta para crear y compartir videos cortos en redes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Grabación de pantalla y video simplificada",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "TikTok for Business",
+          "url": "https://business.tiktok.com/",
+          "descripcion": "Centro de recursos para creators y marcas en TikTok",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Herramientas nativas de la plataforma",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LinkedIn Pages",
+          "url": "https://business.linkedin.com/",
+          "descripcion": "Herramienta para gestionar presencia empresarial en LinkedIn",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Networking y B2B marketing integrados",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Brandwatch",
+          "url": "https://www.brandwatch.com/",
+          "descripcion": "Monitoreo de redes sociales y análisis de menciones",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Incluye gestión de reputación online",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Creator Studio",
+          "url": "https://www.facebook.com/creatorstudio",
+          "descripcion": "Plataforma integrada para gestionar contenido de creators",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Compatible con Facebook, Instagram y YouTube",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Linktree",
+          "url": "https://linktr.ee/",
+          "descripcion": "Herramienta para crear landing pages en perfil de redes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Agrupa múltiples enlaces en bio",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "branding-identidad",
+      "nombre": "Branding e Identidad Visual",
+      "emoji": "🎨",
+      "recursos": [
+        {
+          "nombre": "Adobe Express",
+          "url": "https://www.adobe.com/express/",
+          "descripcion": "Herramienta de diseño simplificada para crear branding",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Recursos de Adobe integrados",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Figma",
+          "url": "https://www.figma.com/",
+          "descripcion": "Plataforma colaborativa de diseño y prototipado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión gratuita con funciones completas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Canva Pro",
+          "url": "https://www.canva.com/pro/",
+          "descripcion": "Suite completa para diseño de marca y materiales visuales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas personalizables para marca",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "LogoMaker",
+          "url": "https://www.logomaker.com/",
+          "descripcion": "Generador de logos profesionales con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Millones de combinaciones de diseño",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Looka",
+          "url": "https://www.looka.com/",
+          "descripcion": "Herramienta de IA para diseñar logos y marca",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Generador inteligente de identidades visuales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Brand.ai",
+          "url": "https://www.brandai.com/",
+          "descripcion": "Plataforma de IA para crear identidad de marca completa",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Colores, tipografías y guías de marca",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Procreate",
+          "url": "https://procreate.com/",
+          "descripcion": "App profesional de ilustración digital para iPad",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Compra única, no suscripción",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Affinity Designer",
+          "url": "https://affinity.serif.com/designer/",
+          "descripcion": "Software profesional de diseño vectorial e ilustración",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Alternativa a Adobe con compra única",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Unsplash",
+          "url": "https://unsplash.com/",
+          "descripcion": "Banco de imágenes gratuitas para branding y materiales",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Licencia libre para uso comercial",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Pexels",
+          "url": "https://www.pexels.com/",
+          "descripcion": "Fotografías e imágenes gratis para proyectos de branding",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Alta calidad y libre de derechos",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "ecommerce-ventas-online",
+      "nombre": "E-commerce y Ventas Online",
+      "emoji": "🛒",
+      "recursos": [
+        {
+          "nombre": "Shopify",
+          "url": "https://www.shopify.com/",
+          "descripcion": "Plataforma líder de e-commerce con todo integrado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Período de prueba gratuito",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "WooCommerce",
+          "url": "https://woocommerce.com/",
+          "descripcion": "Plugin de WordPress para crear tiendas online",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "notas": "Gratuito pero requiere hosting",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Stripe",
+          "url": "https://stripe.com/",
+          "descripcion": "Plataforma de pagos online para e-commerce",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Comisiones por transacción",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "PayPal",
+          "url": "https://www.paypal.com/",
+          "descripcion": "Solución de pagos online integrada para tiendas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Cartera digital y pasarela de pago",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Square Online",
+          "url": "https://squareup.com/us/en/online-store",
+          "descripcion": "Plataforma de e-commerce simplificada con pagos integrados",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Hasta 5 productos gratis",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "BigCommerce",
+          "url": "https://www.bigcommerce.com/",
+          "descripcion": "Plataforma enterprise de e-commerce escalable",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "APIs robustas para integraciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Sellfy",
+          "url": "https://sellfy.com/",
+          "descripcion": "Plataforma de e-commerce con constructor visual",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en productos digitales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "SamCart",
+          "url": "https://www.samcart.com/",
+          "descripcion": "Herramienta para vender productos digitales y servicios",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Checkout optimizado para conversión",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Gumroad",
+          "url": "https://gumroad.com/",
+          "descripcion": "Plataforma para vender productos digitales directamente",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Comisión del 10% opcional",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Zapier",
+          "url": "https://zapier.com/",
+          "descripcion": "Automatización de integraciones entre plataformas e-commerce",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Conecta tienda con CRM, email y más",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "productividad-proyectos",
+      "nombre": "Productividad y Gestión de Proyectos",
+      "emoji": "⚡",
+      "recursos": [
+        {
+          "nombre": "Monday.com",
+          "url": "https://monday.com/",
+          "descripcion": "Plataforma visual para gestión de proyectos y equipos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión premium con más automatizaciones",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Asana",
+          "url": "https://asana.com/",
+          "descripcion": "Herramienta colaborativa para seguimiento de proyectos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Vistas: lista, tablero, calendario y timeline",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "ClickUp",
+          "url": "https://clickup.com/",
+          "descripcion": "Gestión de tareas, documentos y objetivos para equipos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito para uso personal y equipos pequeños",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Trello",
+          "url": "https://trello.com/",
+          "descripcion": "Tablero kanban simple y visual para proyectos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Fácil de aprender, ideal para equipos nuevos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Jira",
+          "url": "https://www.atlassian.com/software/jira",
+          "descripcion": "Herramienta profesional para gestión ágil de desarrollo",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Estándar en equipos de software",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Basecamp",
+          "url": "https://basecamp.com/",
+          "descripcion": "Gestión simple de proyectos, comunicación y tareas de equipo",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito limitado para equipos pequeños",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Todoist",
+          "url": "https://todoist.com/",
+          "descripcion": "Gestor de tareas personal con sincronización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Ideal para gestión de tareas individuales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Slack",
+          "url": "https://slack.com/",
+          "descripcion": "Plataforma de comunicación integrada para equipos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Historial limitado en versión gratuita",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Microsoft Teams",
+          "url": "https://www.microsoft.com/teams/",
+          "descripcion": "Herramienta de comunicación y colaboración integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Incluido en Microsoft 365",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Toggl Track",
+          "url": "https://toggl.com/track/",
+          "descripcion": "Herramienta para rastrear tiempo y productividad",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Reportes detallados de uso del tiempo",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "contabilidad-facturacion",
+      "nombre": "Contabilidad y Facturación",
+      "emoji": "🧾",
+      "recursos": [
+        {
+          "nombre": "Holded",
+          "url": "https://www.holded.com/",
+          "descripcion": "Suite de gestión contable y facturación para pequeñas empresas",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Especializada en España e Iberoamérica",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Debitoor",
+          "url": "https://debitoor.es/",
+          "descripcion": "Software cloud de facturación e inspección de cuentas",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Cumple normativa fiscal española",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Wave",
+          "url": "https://www.waveapps.com/",
+          "descripcion": "Herramienta cloud de contabilidad y facturación",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Completamente gratuita, sin limitaciones",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Invoicely",
+          "url": "https://www.invoicely.com/",
+          "descripcion": "Software de facturación simplificado para freelancers",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas personalizables de facturas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Freshbooks",
+          "url": "https://www.freshbooks.com/",
+          "descripcion": "Suite de facturación y contabilidad para micropymes",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Seguimiento de gastos integrado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Zoho Books",
+          "url": "https://www.zoho.com/books/",
+          "descripcion": "Software de contabilidad cloud escalable",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con suite Zoho",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "SageOne",
+          "url": "https://www.sage.com/en-gb/sage-business-cloud/",
+          "descripcion": "Plataforma de contabilidad cloud de Sage",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Sincronización bancaria automática",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Square Invoices",
+          "url": "https://squareup.com/invoices",
+          "descripcion": "Herramienta de facturación integrada con pagos",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Integración con pagos Square",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Stripe Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "descripcion": "Gestión de facturas integrada con pagos Stripe",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Automatización de cobros",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Sheets",
+          "url": "https://sheets.google.com/",
+          "descripcion": "Hojas de cálculo para crear plantillas contables",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Solución básica y flexible",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "legal-contratos-firma",
+      "nombre": "Legal, Contratos y Firma Digital",
+      "emoji": "⚖️",
+      "recursos": [
+        {
+          "nombre": "Legalstart",
+          "url": "https://www.legalstart.es/",
+          "descripcion": "Plataforma para crear documentos legales y contratos",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Especializada en España, con asesoramiento jurídico",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Docusign",
+          "url": "https://www.docusign.com/",
+          "descripcion": "Plataforma de firma electrónica y gestión de contratos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Legalmente vinculante en España",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Signaturit",
+          "url": "https://www.signaturit.com/es/",
+          "descripcion": "Servicio de firma digital y certificada española",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Cumple normativa de firma digital europea",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "HelloSign",
+          "url": "https://www.hellosign.com/",
+          "descripcion": "Herramienta de firma electrónica simplificada",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Ahora parte de Dropbox Sign",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe Sign",
+          "url": "https://www.adobe.com/es/acrobat/sign.html",
+          "descripcion": "Solución de firma digital de Adobe",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con Adobe Acrobat",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "eMastered",
+          "url": "https://www.emastered.es/",
+          "descripcion": "Plataforma de firma electrónica cualificada",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Certificados digitales y marcas de tiempo",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "OpenDMS",
+          "url": "https://www.opendms.es/",
+          "descripcion": "Sistema de gestión documental y firma digital",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Solución completa para gestoría y asesoría",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Rocket Lawyer",
+          "url": "https://www.rocketlawyer.com/",
+          "descripcion": "Plataforma de plantillas legales y asesoría",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Documentos legales personalizables",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LawDepot",
+          "url": "https://www.lawdepot.com/",
+          "descripcion": "Generador de documentos legales de calidad",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas para diversas jurisdicciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Webpagos",
+          "url": "https://www.webpagos.com/",
+          "descripcion": "Servicio de firmas electrónicas certificadas",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Firma digital cualificada conforme a normativa",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "formacion-emprendimiento",
+      "nombre": "Formación en Emprendimiento",
+      "emoji": "🎓",
+      "recursos": [
+        {
+          "nombre": "Coursera",
+          "url": "https://www.coursera.org/",
+          "descripcion": "Plataforma de cursos online con certificaciones",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Cursos de universidades y empresas reconocidas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Udemy",
+          "url": "https://www.udemy.com/",
+          "descripcion": "Plataforma de cursos de emprendimiento asequibles",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Ofertas frecuentes y precios accesibles",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "MiriadaX",
+          "url": "https://www.miriadax.net/",
+          "descripcion": "Plataforma de MOOC hispanohablante con cursos gratis",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Universidades españolas y latinoamericanas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "B2B Rocket Academy",
+          "url": "https://academy.b2brocket.com/",
+          "descripcion": "Cursos sobre ventas B2B y prospección digital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Especializado en sales y marketing",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "General Assembly",
+          "url": "https://generalassemb.ly/",
+          "descripcion": "Bootcamps y cursos de habilidades técnicas para negocios",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Certificaturas profesionales con garantía laboral",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Escuela de Organización Industrial",
+          "url": "https://www.eoi.es/",
+          "descripcion": "Centro de formación empresarial español",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "MBA y programas de emprendimiento presenciales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "LinkedIn Learning",
+          "url": "https://www.linkedin.com/learning/",
+          "descripcion": "Plataforma de aprendizaje con cursos profesionales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con perfil LinkedIn",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Skillshare",
+          "url": "https://www.skillshare.com/",
+          "descripcion": "Comunidad de aprendizaje con miles de cursos creativos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en creatividad y emprendimiento digital",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Codeacademy",
+          "url": "https://www.codecademy.com/",
+          "descripcion": "Plataforma de aprendizaje de programación interactiva",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Habilidades técnicas para emprendedores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Emagister",
+          "url": "https://www.emagister.com/",
+          "descripcion": "Buscador de cursos online y presenciales en España",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Directorio completo de proveedores de formación",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "crm-clientes",
+      "nombre": "CRM y Gestión de Clientes",
+      "emoji": "🤝",
+      "recursos": [
+        {
+          "nombre": "HubSpot CRM",
+          "url": "https://www.hubspot.com/crm",
+          "descripcion": "CRM gratuito con automatización de ventas integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Versión premium con funciones avanzadas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Pipedrive",
+          "url": "https://www.pipedrive.com/",
+          "descripcion": "CRM visual enfocado en gestión de ventas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Pipeline visual intuitivo y automatizaciones",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Zoho CRM",
+          "url": "https://www.zoho.com/crm/",
+          "descripcion": "Plataforma CRM escalable con suite integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con productos Zoho",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Salesforce",
+          "url": "https://www.salesforce.com/",
+          "descripcion": "CRM empresarial con inteligencia artificial integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Estándar de la industria, complejo pero potente",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Freshsales",
+          "url": "https://www.freshworks.com/crm/sales/",
+          "descripcion": "CRM moderno con IA para predicción de ventas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Intuitivo y fácil de implementar",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Monday Sales CRM",
+          "url": "https://monday.com/crm",
+          "descripcion": "CRM visual basado en la plataforma Monday",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con resto de herramientas Monday",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "NocoDB",
+          "url": "https://nocodb.io/",
+          "descripcion": "CRM open-source basado en base de datos visual",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "notas": "Alternativa open-source a Airtable",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Agile CRM",
+          "url": "https://www.agilecrm.com/",
+          "descripcion": "CRM all-in-one con marketing y soporte integrados",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Suite completa a precio competitivo",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Airtable",
+          "url": "https://www.airtable.com/",
+          "descripcion": "Base de datos flexible para gestionar clientes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Personalizable para CRM customizado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Less.chat",
+          "url": "https://less.chat/",
+          "descripcion": "CRM conversacional basado en chat integrado",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Especializado en relaciones por chat",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "email-marketing",
+      "nombre": "Email Marketing y Comunicación",
+      "emoji": "📧",
+      "recursos": [
+        {
+          "nombre": "Mailjet",
+          "url": "https://www.mailjet.com/",
+          "descripcion": "Plataforma de email transaccional y campañas de marketing",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito con límite diario de envíos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "MailerLite",
+          "url": "https://www.mailerlite.com/",
+          "descripcion": "Email marketing con automatizaciones y editor visual",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratis con límite mensual de envíos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "ActiveCampaign",
+          "url": "https://www.activecampaign.com/",
+          "descripcion": "Plataforma de email marketing con automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "CRM y email marketing integrados",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "ConvertKit",
+          "url": "https://convertkit.com/",
+          "descripcion": "Email marketing especializado para creators",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en monetización de listas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Substack",
+          "url": "https://substack.com/",
+          "descripcion": "Plataforma de newsletters con monetización integrada",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en writing y subscripciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Getresponse",
+          "url": "https://www.getresponse.com/",
+          "descripcion": "Suite de marketing automation con email integrado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Webinars y landing pages incluidas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Klaviyo",
+          "url": "https://www.klaviyo.com/",
+          "descripcion": "Plataforma de email y SMS para ecommerce",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Especializada en tiendas online",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Constant Contact",
+          "url": "https://www.constantcontact.com/",
+          "descripcion": "Email marketing con herramientas de automatización",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Período de prueba gratuito",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Campaign Monitor",
+          "url": "https://www.campaignmonitor.com/",
+          "descripcion": "Editor de email drag-and-drop con automatización",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas profesionales prediseñadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Ghost Newsletter",
+          "url": "https://ghost.org/",
+          "descripcion": "Plataforma de newsletters con integraciones",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Open-source disponible",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "analitica-datos",
+      "nombre": "Analítica, Métricas y Datos",
+      "emoji": "📊",
+      "recursos": [
+        {
+          "nombre": "Matomo",
+          "url": "https://matomo.org/",
+          "descripcion": "Analítica web open source centrada en privacidad y control de datos",
+          "idioma": "EN",
+          "tipo_acceso": "open-source",
+          "notas": "Versión self-hosted gratuita; cloud de pago",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Metabase",
+          "url": "https://www.metabase.com/",
+          "descripcion": "Plataforma open-source de BI y dashboards",
+          "idioma": "EN",
+          "tipo_acceso": "open-source",
+          "notas": "Análisis visual sin código",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Looker Studio",
+          "url": "https://looker.com/",
+          "descripcion": "Herramienta de visualización y dashboards de Google",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Integración con Google Analytics",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Power BI",
+          "url": "https://powerbi.microsoft.com/",
+          "descripcion": "Suite de BI de Microsoft para análisis de datos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con ecosistema Microsoft",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Tableau",
+          "url": "https://www.tableau.com/",
+          "descripcion": "Plataforma profesional de visualización de datos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Estándar industria para BI",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Mixpanel",
+          "url": "https://mixpanel.com/",
+          "descripcion": "Analítica de producto enfocada en eventos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Seguimiento de comportamiento de usuarios",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Amplitude",
+          "url": "https://www.amplitude.com/",
+          "descripcion": "Plataforma de product analytics y data",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "IA para insights automáticos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Heap",
+          "url": "https://heap.io/",
+          "descripcion": "Análisis digital automático sin código",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Captura automática de eventos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Plausible",
+          "url": "https://plausible.io/",
+          "descripcion": "Analítica web simplificada y privada",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en privacidad del usuario",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Fathom Analytics",
+          "url": "https://usefathom.com/",
+          "descripcion": "Analytics simple de Google Analytics con privacidad",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "GDPR compliant",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "automatizacion-nocode",
+      "nombre": "Automatización y No-Code",
+      "emoji": "🔧",
+      "recursos": [
+        {
+          "nombre": "n8n",
+          "url": "https://n8n.io/",
+          "descripcion": "Automatización open source de flujos de trabajo e integraciones",
+          "idioma": "EN",
+          "tipo_acceso": "open-source",
+          "notas": "Self-hosted gratis; cloud con planes de pago",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Make",
+          "url": "https://www.make.com/",
+          "descripcion": "Plataforma visual de automatización de flujos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Interfaz visual para automatización compleja",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "IFTTT",
+          "url": "https://ifttt.com/",
+          "descripcion": "Automatización simple si-entonces para tareas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Interfaz simple para automatización",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Integrately",
+          "url": "https://integrately.com/",
+          "descripcion": "Automatización de tareas entre apps con plantillas listas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratis con operaciones limitadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Bubble",
+          "url": "https://bubble.io/",
+          "descripcion": "Plataforma no-code para crear aplicaciones web",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Desarrollo visual completo de aplicaciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Webflow",
+          "url": "https://webflow.com/",
+          "descripcion": "Constructor visual para sitios web responsivos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Diseño profesional sin código",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Softr",
+          "url": "https://www.softr.io/",
+          "descripcion": "Convertir datos en aplicaciones web sin código",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Crea apps desde Airtable, Google Sheets",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "FlutterFlow",
+          "url": "https://flutterflow.io/",
+          "descripcion": "Plataforma no-code para apps móviles",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Crea iOS y Android sin código",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Pipedream",
+          "url": "https://pipedream.com/",
+          "descripcion": "Automatización de flujos con APIs y eventos sin servidores",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito con créditos mensuales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Integromat",
+          "url": "https://www.integromat.com/",
+          "descripcion": "Plataforma fusionada en Make para automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Ahora es parte de Make",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "comunidades-networking",
+      "nombre": "Comunidades y Networking",
+      "emoji": "💬",
+      "recursos": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://www.linkedin.com/",
+          "descripcion": "Red profesional para networking y B2B",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Premium con funciones avanzadas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Discord",
+          "url": "https://discord.com/",
+          "descripcion": "Comunidades por canales de texto y voz para networking",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Uso gratuito con funciones avanzadas opcionales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "GrowthMentor",
+          "url": "https://www.growthmentor.com/",
+          "descripcion": "Comunidad y mentorías para founders y equipos de crecimiento",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Parte del contenido es gratuito; mentorías premium",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Circle",
+          "url": "https://circle.so/",
+          "descripcion": "Plataforma para crear comunidades pagadas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Monetización de comunidades",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Mighty Networks",
+          "url": "https://mightynetworks.com/",
+          "descripcion": "App para crear comunidades de nicho",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Comunidades móviles y web",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Tribe",
+          "url": "https://www.tribe.so/",
+          "descripcion": "Plataforma de comunidades en línea",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Alternativa a Circle y Mighty Networks",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Startup Grind",
+          "url": "https://www.startupgrind.com/",
+          "descripcion": "Comunidad global de founders con eventos y networking",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso abierto a comunidad y contenidos básicos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Twist",
+          "url": "https://twist.com/",
+          "descripcion": "Comunicación asincrónica para equipos remotos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Alternativa enfocada en asincronía",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Telegram",
+          "url": "https://telegram.org/",
+          "descripcion": "App de mensajería para crear grupos comunitarios",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Comunidades informales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Meetup",
+          "url": "https://www.meetup.com/",
+          "descripcion": "Plataforma para organizar encuentros presenciales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Networking local y virtual",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "startups-aceleradoras",
+      "nombre": "Startups y Aceleradoras",
+      "emoji": "🚀",
+      "recursos": [
+        {
+          "nombre": "Y Combinator",
+          "url": "https://www.ycombinator.com/",
+          "descripcion": "La aceleradora de startups más prestigiosa del mundo",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Mentoría y recursos abiertos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Anterra Capital",
+          "url": "https://www.anterracapital.com/",
+          "descripcion": "Fondo de inversión y aceleradora para startups españolas",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Inversión inicial y mentoría",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Startup España",
+          "url": "https://www.startupspain.org/",
+          "descripcion": "Asociación de startups españolas con recursos",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Red de startup españolas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "TechCrunch Disrupt",
+          "url": "https://techcrunch.com/events/",
+          "descripcion": "Conferencia global de startups y tecnología",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Networking con inversores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "The Startup Garage",
+          "url": "https://www.thestartupgarage.com/",
+          "descripcion": "Recursos y mentoría para startups",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Guías y plantillas gratis",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Slush",
+          "url": "https://www.slush.org/",
+          "descripcion": "Conferencia anual de startups en Helsinki",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Mayor evento de startups en Europa",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "500 Global",
+          "url": "https://500.com/",
+          "descripcion": "Fondo de inversión global con programa de aceleración",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Inversión global en startups",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Plug and Play",
+          "url": "https://www.plugandplaytechcenter.com/",
+          "descripcion": "Aceleradora e inversora de startups tecnológicas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Conexión con corporaciones grandes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Founder Institute",
+          "url": "https://www.foundinginstitute.org/",
+          "descripcion": "Programa de educación para founders de startups",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Entrenamiento internacional de founders",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Ermatinger",
+          "url": "https://ermatinger.com/",
+          "descripcion": "Aceleradora española de startups tecnológicas",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Base en Barcelona",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "ia-negocios",
+      "nombre": "IA para Negocios",
+      "emoji": "🤖",
+      "recursos": [
+        {
+          "nombre": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "descripcion": "IA conversacional para contenido y análisis",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión premium con GPT-4",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Claude",
+          "url": "https://claude.ai/",
+          "descripcion": "IA conversacional alternativa a ChatGPT",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Enfoque en precisión y seguridad",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Gamma",
+          "url": "https://gamma.app/",
+          "descripcion": "Herramienta de IA para crear presentaciones visivas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Generación automática de pitch decks",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "descripcion": "IA generadora de imágenes de alta calidad",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Imágenes profesionales para marketing",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "DALL-E",
+          "url": "https://openai.com/dall-e-3",
+          "descripcion": "Generador de imágenes con IA de OpenAI",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Integrado en ChatGPT Plus",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Runway",
+          "url": "https://runwayml.com/",
+          "descripcion": "Plataforma de IA para video y creación visual",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Edición de video con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Jasper",
+          "url": "https://www.jasper.ai/",
+          "descripcion": "IA escritora para crear contenido de marketing",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Redacción y copywriting automático",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Copy.ai",
+          "url": "https://www.copy.ai/",
+          "descripcion": "Generador de copys y marketing content con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Herramienta simplificada",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Synthesia",
+          "url": "https://www.synthesia.io/",
+          "descripcion": "Crea videos con avatares IA sin cámara",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Videos profesionales automáticos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Tome",
+          "url": "https://tome.app/",
+          "descripcion": "Generador de presentaciones con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Diseño automático de diapositivas",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "investigacion-mercado",
+      "nombre": "Investigación de Mercado",
+      "emoji": "🔬",
+      "recursos": [
+        {
+          "nombre": "SimilarWeb",
+          "url": "https://www.similarweb.com/",
+          "descripcion": "Análisis de competidores y datos de mercado",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Inteligencia de sitios web competidores",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Qualtrics",
+          "url": "https://www.qualtrics.com/",
+          "descripcion": "Plataforma de encuestas y investigación cuantitativa",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Análisis estadístico avanzado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "SurveySparrow",
+          "url": "https://www.surveysparrow.com/",
+          "descripcion": "Herramienta de encuestas y investigación de mercado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Análisis de mercado y feedback",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Think with Google",
+          "url": "https://www.thinkwithgoogle.com/intl/es-es/",
+          "descripcion": "Insights de consumo, tendencias y estudios de mercado",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Contenido abierto y gratuito para investigación",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Euromonitor",
+          "url": "https://www.euromonitor.com/",
+          "descripcion": "Base de datos de investigación de mercado global",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Tendencias e insights de mercado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Statista",
+          "url": "https://www.statista.com/",
+          "descripcion": "Plataforma de estadísticas y datos de mercado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Millones de estadísticas verificadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Exploding Topics",
+          "url": "https://explodingtopics.com/",
+          "descripcion": "Detecta tendencias emergentes para investigación de mercado",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratis con búsquedas y tendencias limitadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Trends",
+          "url": "https://trends.google.com/",
+          "descripcion": "Tendencias de búsqueda para validar demanda y evolución de mercados",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Herramienta gratuita de Google",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Pew Research Center",
+          "url": "https://www.pewresearch.org/",
+          "descripcion": "Estudios y datos de tendencias sociales y económicas globales",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Informes públicos gratuitos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Answer the Public",
+          "url": "https://answerthepublic.com/",
+          "descripcion": "Descubre preguntas que hacen sobre tu tema",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Investiga demanda de contenido",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "presentaciones-pitch",
+      "nombre": "Presentaciones y Pitch Deck",
+      "emoji": "🖥️",
+      "recursos": [
+        {
+          "nombre": "Pitch",
+          "url": "https://pitch.com/",
+          "descripcion": "Herramienta moderna para crear presentaciones colaborativas",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito para equipos pequeños",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Canva",
+          "url": "https://www.canva.com/create/pitch-decks/",
+          "descripcion": "Plantillas profesionales de pitch decks",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Miles de plantillas personalizables",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Slidebean",
+          "url": "https://www.slidebean.com/",
+          "descripcion": "Plataforma especializada en pitch decks y presentaciones",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plantillas de pitch deck profesionales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Slides",
+          "url": "https://docs.google.com/presentation/",
+          "descripcion": "Herramienta de presentaciones colaborativa",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Colaboración en tiempo real",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Keynote",
+          "url": "https://www.apple.com/keynote/",
+          "descripcion": "Software de presentaciones de Apple",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "notas": "Incluido en iCloud",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Microsoft PowerPoint",
+          "url": "https://www.microsoft.com/powerpoint",
+          "descripcion": "Herramienta de presentaciones estándar",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Versión online gratuita",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Prezi",
+          "url": "https://prezi.com/",
+          "descripcion": "Presentaciones no lineales con zoom",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Presentaciones dinámicas e innovadoras",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Focusplan",
+          "url": "https://www.focusplan.com/",
+          "descripcion": "Herramienta de storyboarding para presentaciones",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Planificación visual de narrativas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Beautiful.ai",
+          "url": "https://www.beautiful.ai/",
+          "descripcion": "Presentaciones automáticas con diseño asistido por IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito con límites de exportación",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Visme",
+          "url": "https://www.visme.co/",
+          "descripcion": "Diseño de presentaciones y materiales visuales para negocio",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Plan gratuito con limitaciones de plantillas y descargas",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "registro-empresa-legaltech",
+      "nombre": "Registro de Empresa y Legaltech",
+      "emoji": "📜",
+      "recursos": [
+        {
+          "nombre": "CIRCE (PAE)",
+          "url": "https://paeelectronico.es/",
+          "descripcion": "Sistema oficial español para crear empresas de forma telemática",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Portal público de administración electrónica",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Cámara de Comercio de España",
+          "url": "https://www.camaras.es/",
+          "descripcion": "Centro de información para registro de empresas",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Trámites oficiales de registro mercantil",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Gestantel",
+          "url": "https://www.gestantel.es/",
+          "descripcion": "Gestoría virtual para trámites empresariales",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Asesoramiento fiscal y legal integrado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Registral.com",
+          "url": "https://www.registral.com/",
+          "descripcion": "Gestión de trámites del registro mercantil",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Presentación telemática de documentos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Incibe",
+          "url": "https://www.incibe.es/",
+          "descripcion": "Instituto de ciberseguridad con asesoramiento",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Seguridad y protección de datos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Asnef",
+          "url": "https://www.asnef.es/",
+          "descripcion": "Registro de deudores para empresas",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Verificación crediticia de clientes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LawGeex",
+          "url": "https://www.lawgeex.com/",
+          "descripcion": "Análisis de contratos con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Revisión automatizada de documentos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Everlaw",
+          "url": "https://www.everlaw.com/",
+          "descripcion": "Plataforma legal cloud para gestión documentaria",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Colaboración legal en línea",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LegalZoom",
+          "url": "https://www.legalzoom.com/",
+          "descripcion": "Servicios legales online para creación y gestión empresarial",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Contenido gratuito; trámites y documentos avanzados de pago",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Stripe Atlas",
+          "url": "https://stripe.com/atlas",
+          "descripcion": "Guía y proceso de creación empresarial orientado a startups",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Recursos gratuitos; constitución con coste",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "inversion-capital-riesgo",
+      "nombre": "Inversión y Capital Riesgo",
+      "emoji": "💹",
+      "recursos": [
+        {
+          "nombre": "Tracxn",
+          "url": "https://tracxn.com/",
+          "descripcion": "Plataforma de inteligencia de mercado para startups e inversión",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Acceso básico gratuito con límites de consulta",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Seedrs",
+          "url": "https://www.seedrs.com/",
+          "descripcion": "Plataforma de equity crowdfunding para startups e inversores",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Registro gratuito; comisiones en operaciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Dealroom",
+          "url": "https://dealroom.co/",
+          "descripcion": "Plataforma de inteligencia de inversión europea",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Inteligencia para inversión en startups",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "PitchBook",
+          "url": "https://pitchbook.com/",
+          "descripcion": "Datos de private equity y venture capital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Información de mercado de VC",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Carta",
+          "url": "https://carta.com/",
+          "descripcion": "Plataforma de gestión de capitales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Gestión de inversiones y cap tables",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Seedtable",
+          "url": "https://www.seedtable.com/",
+          "descripcion": "Base de datos de fondos de venture capital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Directorio de inversores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "NFX Signal",
+          "url": "https://signal.nfx.com/",
+          "descripcion": "Directorio para buscar inversores y conexiones de fundraising",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Uso gratuito para founders en etapa temprana",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Wefunder",
+          "url": "https://wefunder.com/",
+          "descripcion": "Plataforma de equity crowdfunding",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Permite vender acciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "SeedInvest",
+          "url": "https://www.seedinvest.com/",
+          "descripcion": "Plataforma de equity crowdfunding curada",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Inversiones verificadas en startups",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Nasdaq Private Market",
+          "url": "https://www.nasdaqprivatemarket.com/",
+          "descripcion": "Mercado para transacciones de capital privado",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Gestión de cap table y secundarias",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "internacionalizacion-exportacion",
+      "nombre": "Internacionalización y Exportación",
+      "emoji": "🌍",
+      "recursos": [
+        {
+          "nombre": "ICEX España Exportación",
+          "url": "https://www.icex.es/",
+          "descripcion": "Instituto español para la competitividad empresarial",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Programas de internacionalización estatales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Global Trade Portal",
+          "url": "https://www.globalports.org/",
+          "descripcion": "Información sobre aranceles y regulaciones comerciales",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Datos sobre comercio internacional",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "TradeKey",
+          "url": "https://www.tradekey.com/",
+          "descripcion": "Plataforma B2B para encontrar proveedores globales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Conexión con empresas internacionales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Alibaba",
+          "url": "https://www.alibaba.com/",
+          "descripcion": "Plataforma B2B de proveedores chinos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Importación y sourcing global",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Global Sources",
+          "url": "https://www.globalsources.com/",
+          "descripcion": "Directorio de proveedores internacionales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Verificación de proveedores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Exporta Fácil",
+          "url": "https://exportafacil.es/",
+          "descripcion": "Plataforma de comercio electrónico de internacionalización",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Venta online internacional",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "OEC - Observatory of Economic Complexity",
+          "url": "https://oec.world/",
+          "descripcion": "Análisis de datos de comercio internacional",
+          "idioma": "EN",
+          "tipo_acceso": "gratis",
+          "notas": "Datos de exportación e importación",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Enterprise Europe Network",
+          "url": "https://een.ec.europa.eu/",
+          "descripcion": "Red europea de apoyo a pymes internacionales",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Acceso a socios comerciales europeos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Santander Trade",
+          "url": "https://santandertrade.com/",
+          "descripcion": "Información y guías para comercio internacional y exportación",
+          "idioma": "ES",
+          "tipo_acceso": "gratis",
+          "notas": "Portal abierto con datos de mercados internacionales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Stripe International",
+          "url": "https://stripe.com/global",
+          "descripcion": "Pagos internacionales simplificados",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "notas": "Procesamiento de pagos sin fronteras",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "logistica-operaciones",
+      "nombre": "Logística y Operaciones",
+      "emoji": "📦",
+      "recursos": [
+        {
+          "nombre": "Shippo",
+          "url": "https://goshippo.com/",
+          "descripcion": "Plataforma de integración de envíos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Comparación de tarifas de múltiples transportistas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Easypost",
+          "url": "https://www.easypost.com/",
+          "descripcion": "API de envíos para e-commerce",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Integración con principales carriers",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Correos Express",
+          "url": "https://www.correosexpress.es/",
+          "descripcion": "Servicio de logística español",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Envíos nacionales e internacionales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "DHL",
+          "url": "https://www.dhl.com/es-es/home.html",
+          "descripcion": "Empresa de logística y envíos global",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Soluciones de envío profesionales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "FedEx",
+          "url": "https://www.fedex.com/es/",
+          "descripcion": "Servicio de envíos internacional",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Cobertura global de entregas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "UPS",
+          "url": "https://www.ups.com/upsdoc/es/es/index.html",
+          "descripcion": "Compañía de logística y envíos",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Seguimiento en tiempo real",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "TraceLink",
+          "url": "https://www.tracelink.com/",
+          "descripcion": "Plataforma de visibilidad de cadena de suministro",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Trazabilidad end-to-end",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Flexport",
+          "url": "https://www.flexport.com/",
+          "descripcion": "Plataforma de logística para importación/exportación",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Gestión de carga internacional",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Warehouse Manager",
+          "url": "https://www.oracle.com/scm/",
+          "descripcion": "Sistema de gestión de almacén",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "notas": "Control de inventario",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Loggi",
+          "url": "https://www.loggi.com/es/",
+          "descripcion": "Plataforma de logística última milla",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "notas": "Entregas rápidas en ciudades",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    }
+  ]
+}
