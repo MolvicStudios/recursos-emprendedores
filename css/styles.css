@@ -351,22 +351,6 @@ body {
   padding: 2rem 0 4rem;
 }
 
-/* Slot de anuncio */
-.ad-slot {
-  text-align: center;
-  padding: 0.5rem;
-  min-height: 10px;
-}
-.ad-slot--header {
-  margin-bottom: 1.5rem;
-}
-.ad-slot--in-content {
-  margin: 2rem 0;
-}
-.ad-slot--footer {
-  margin-top: 2rem;
-}
-
 /* Sección de categoría */
 .category-section {
   margin-bottom: 3rem;
@@ -956,8 +940,7 @@ body {
   .theme-toggle,
   .search-wrapper,
   .filter-bar,
-  .category-nav,
-  .ad-slot {
+  .category-nav {
     display: none !important;
   }
   body {

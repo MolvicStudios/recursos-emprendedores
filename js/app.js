@@ -144,8 +144,8 @@
   function renderSections() {
     if (!mainContent) return;
 
-    // Limpiar contenido dinámico (mantener ad-slot--header y no-results)
-    var dynamicEls = mainContent.querySelectorAll('.category-section, .ad-slot--in-content');
+    // Limpiar contenido dinámico
+    var dynamicEls = mainContent.querySelectorAll('.category-section');
     dynamicEls.forEach(function (el) { el.remove(); });
 
     var fragment = document.createDocumentFragment();
@@ -197,20 +197,12 @@
 
       section.appendChild(grid);
       fragment.appendChild(section);
-
-      // Insertar ad slot cada 5 categorías
-      if ((index + 1) % 5 === 0 && index < allData.categorias.length - 1) {
-        var adSlot = document.createElement('div');
-        adSlot.className = 'ad-slot ad-slot--in-content';
-        adSlot.setAttribute('aria-hidden', 'true');
-        fragment.appendChild(adSlot);
-      }
     });
 
-    // Insertar antes del ad-slot--footer
-    var footerAd = mainContent.querySelector('.ad-slot--footer');
-    if (footerAd) {
-      mainContent.insertBefore(fragment, footerAd);
+    // Insertar antes de no-results
+    var noResultsEl = mainContent.querySelector('.no-results');
+    if (noResultsEl) {
+      mainContent.insertBefore(fragment, noResultsEl);
     } else {
       mainContent.appendChild(fragment);
     }

@@ -20,11 +20,8 @@
     if (consent === null) {
       // Primera visita: mostrar banner
       showBanner();
-    } else if (consent === 'all') {
-      // Ya aceptó todo: cargar scripts de terceros
-      loadAds();
     }
-    // Si consent === 'essential', no cargar nada de terceros
+    // Si ya dio su consentimiento, no hacer nada más
   }
 
   // ---- Mostrar banner ----
@@ -42,7 +39,6 @@
       acceptBtn.addEventListener('click', function () {
         setConsent('all');
         hideBanner();
-        loadAds();
       });
     }
 
@@ -81,24 +77,6 @@
     } catch (e) {
       return null;
     }
-  }
-
-  // ---- Cargar scripts publicitarios (solo tras consentimiento) ----
-  function loadAds() {
-    // Configuración del script publicitario externo.
-    // Cambiar la URL y data-site-id por los valores reales
-    // cuando se active la monetización.
-    var adScriptUrl = ''; // Ejemplo: 'https://tu-red-publicitaria.com/script.js'
-    var siteId = 'TU_SITE_ID';
-
-    // Solo cargar si hay URL configurada
-    if (!adScriptUrl) return;
-
-    var script = document.createElement('script');
-    script.src = adScriptUrl;
-    script.setAttribute('data-site-id', siteId);
-    script.async = true;
-    document.head.appendChild(script);
   }
 
 })();
