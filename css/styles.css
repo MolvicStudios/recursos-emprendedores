@@ -883,62 +883,6 @@ body {
 
 /* ---- Breakpoints responsive ---- */
 
-/* Mobile: touch targets y fonts legibles */
-@media (max-width: 768px) {
-  /* Touch targets mínimo 44px */
-  .filter-btn {
-    min-height: 44px;
-    padding: 0.5rem 1rem;
-    font-size: 0.875rem;
-  }
-  .nav-item {
-    min-height: 44px;
-    padding: 0.5rem 0.875rem;
-    font-size: 0.875rem;
-  }
-  .theme-toggle {
-    width: 44px;
-    height: 44px;
-  }
-  .cookie-btn {
-    min-height: 44px;
-    padding: 0.625rem 1.5rem;
-    font-size: 0.875rem;
-  }
-  .footer-links a {
-    display: inline-flex;
-    align-items: center;
-    min-height: 44px;
-  }
-  .back-link {
-    min-height: 44px;
-    display: inline-flex;
-    align-items: center;
-  }
-
-  /* Fonts legibles */
-  .badge { font-size: 0.75rem; }
-  .category-count { font-size: 0.8rem; }
-  .resource-notes { font-size: 0.875rem; }
-  .resource-desc { font-size: 0.875rem; }
-  .stats-counter { font-size: 0.875rem; }
-  .cookie-text { font-size: 0.875rem; }
-  .footer-disclaimer,
-  .footer-copyright,
-  .footer-copy { font-size: 0.825rem; }
-}
-
-/* <= 375px — Pantallas pequeñas */
-@media (max-width: 375px) {
-  .container { padding: 0 0.75rem; }
-  .site-header { padding: 1.25rem 0 1rem; }
-  .site-title { font-size: 1.4rem; }
-  .main-content { padding: 1.25rem 0 2rem; }
-  .category-section { margin-bottom: 2rem; }
-  .empty-state, .error-state { padding: 2rem 0.75rem; }
-  .resource-card { padding: 0.75rem; }
-}
-
 /* >= 480px */
 @media (min-width: 480px) {
   .resources-grid {
