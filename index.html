@@ -31,6 +31,7 @@
   <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
 
   <!-- Estilos -->
+  <link rel="preload" href="css/styles.css" as="style">
   <link rel="stylesheet" href="css/styles.css">
 
   <!-- Schema.org JSON-LD -->
@@ -200,8 +201,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/cookies-banner.js"></script>
-  <script src="js/app.js"></script>
+  <script defer src="js/cookies-banner.js"></script>
+  <script defer src="js/app.js"></script>
   <script>
     // Registro del Service Worker
     if ('serviceWorker' in navigator) {
