@@ -3,6 +3,12 @@
    Mobile-first | WCAG 2.1 AA | Modo oscuro/claro
    ============================================== */
 
+/* ---- Adsterra: evitar scroll hijacking ---- */
+#container-634266c4f03d3b431f42ea0b117497bb,
+#container-634266c4f03d3b431f42ea0b117497bb iframe {
+  focus-scroll: none;
+}
+
 /* ---- Variables CSS ---- */
 :root {
   /* Colores modo oscuro (por defecto) */
