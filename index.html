@@ -150,10 +150,6 @@
   <main id="main-content" tabindex="-1">
     <!-- Las secciones de categorías se generan dinámicamente desde app.js -->
 
-    <!-- ===== NATIVE BANNER (Adsterra) ===== -->
-    <script async="async" data-cfasync="false" src="https://pl28980062.profitablecpmratenetwork.com/634266c4f03d3b431f42ea0b117497bb/invoke.js"></script>
-    <div id="container-634266c4f03d3b431f42ea0b117497bb"></div>
-
     <!-- Estado: sin resultados -->
     <div id="no-results" class="no-results" role="status" aria-live="polite">
       <span class="no-results-icon" aria-hidden="true">🔎</span>
@@ -162,6 +158,28 @@
     </div>
 
   </main>
+
+  <!-- ===== NATIVE BANNER (Adsterra) ===== -->
+  <div id="ad-native-wrapper" style="text-align:center;margin:24px auto;max-width:728px;overflow:hidden;">
+    <div id="container-634266c4f03d3b431f42ea0b117497bb"></div>
+  </div>
+  <script>
+    // Carga diferida del Native Banner para evitar que secuestre el scroll
+    (function(){
+      var done = false;
+      function loadAd() {
+        if (done) return;
+        done = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.setAttribute('data-cfasync', 'false');
+        s.src = 'https://pl28980062.profitablecpmratenetwork.com/634266c4f03d3b431f42ea0b117497bb/invoke.js';
+        document.getElementById('ad-native-wrapper').appendChild(s);
+      }
+      if (document.readyState === 'complete') { setTimeout(loadAd, 1500); }
+      else { window.addEventListener('load', function(){ setTimeout(loadAd, 1500); }); }
+    })();
+  </script>
 
   <!-- ===== FOOTER ===== -->
   <footer class="site-footer" role="contentinfo">
