@@ -163,32 +163,6 @@
   <!-- ===== FOOTER ===== -->
   <footer class="site-footer" role="contentinfo">
     <div class="footer-content">
-      <!-- ===== NATIVE BANNER (Adsterra) ===== -->
-      <div id="ad-native-wrapper" style="text-align:center;margin:0 auto 24px;max-width:728px;">
-        <script>
-          // Bloquear scroll hijacking de scripts de publicidad
-          (function(){
-            var origScroll = Element.prototype.scrollIntoView;
-            var origFocus = HTMLElement.prototype.focus;
-            Element.prototype.scrollIntoView = function(){
-              if (this.closest && this.closest('#ad-native-wrapper')) return;
-              return origScroll.apply(this, arguments);
-            };
-            HTMLElement.prototype.focus = function(opts){
-              if (this.closest && this.closest('#ad-native-wrapper')) return;
-              return origFocus.call(this, opts);
-            };
-            // Restaurar prototipos después de 10s
-            setTimeout(function(){
-              Element.prototype.scrollIntoView = origScroll;
-              HTMLElement.prototype.focus = origFocus;
-            }, 10000);
-          })();
-        </script>
-        <script async="async" data-cfasync="false" src="https://pl28980062.profitablecpmratenetwork.com/634266c4f03d3b431f42ea0b117497bb/invoke.js"></script>
-        <div id="container-634266c4f03d3b431f42ea0b117497bb"></div>
-      </div>
-
       <p id="footer-update">Última actualización: —</p>
       <p>
         <a href="mailto:molvicstudios@outlook.com">¿Conoces una herramienta? Sugiere un recurso</a>
